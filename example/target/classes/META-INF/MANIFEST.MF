@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1567988399809
+Bundle-ManifestVersion: 2
+Bundle-Name: example
+Bundle-SymbolicName: example
+Bundle-Version: 0.0.1.201909090019
+Created-By: 1.8.0_191 (Oracle Corporation)
+Tool: Bnd-4.2.0.201909070408
+
